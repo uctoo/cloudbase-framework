@@ -136,5 +136,11 @@
     "link": "https://edu.tencent.com/",
     "repo": "",
     "logo": "https://edu.tencent.com/favicon.ico"
+  },
+  {
+    "name": "UCToo云原生去中心化SaaS",
+    "link": "https://www.uctoo.com/",
+    "repo": "https://gitee.com/uctoo/uctoo",
+    "logo": "https://weiyoho-6g537z019016cef5-1251032919.tcloudbaseapp.com/img/UCToologo50.png"
   }
 ]
