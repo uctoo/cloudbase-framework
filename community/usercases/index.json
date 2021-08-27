@@ -160,5 +160,11 @@
     "link": "https://tc.southbaa.com",
     "repo": "https://github.com/wisp-x/lsky-pro",
     "logo": "https://raw.githubusercontent.com/wisp-x/lsky-pro/master/public/static/app/images/logo.png"
+  },
+  {
+    "name": "UCToo云原生去中心化SaaS",
+    "link": "https://www.uctoo.com/",
+    "repo": "https://gitee.com/uctoo/uctoo",
+    "logo": "https://gitee.com/UCT_admin/materials/raw/master/uctoo/UCToologo50.png"
   }
 ]
