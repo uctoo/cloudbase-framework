@@ -4,7 +4,7 @@ description: 如果你对使用 GitHub 自动构建和部署云开发项目感�
 banner: './banner.jpg'
 authorIds:
   - beetcb
-href: https://beetcb.com/action-github
+href: https://beetcb.com/action-github  
 platforms:
   - GitHub Action
 tags:
